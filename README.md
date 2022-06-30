@@ -1,5 +1,5 @@
 # Image Captioning Project
--A Deep Learning Model, which takes an image as an input and tries to generate an appropriate caption for it. 
+- A Deep Learning Model, which takes an image as an input and tries to generate an appropriate caption for it. 
 It involved image and text processing and used the ResNet-50 model for creating feature vectors for images.
 
 # Steps
