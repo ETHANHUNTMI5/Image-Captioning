@@ -14,3 +14,6 @@ It involved image and text processing and used the ResNet-50 model for creating 
 9. Model Architecture
 10. Inference
 11. Evaluation
+
+## Dataset
+- Flikr8k dataset
